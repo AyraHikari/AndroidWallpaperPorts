@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Черен</string>
+    <string name="somc_title_blue">Синьо</string>
+    <string name="somc_title_bordeaux">Бордо</string>
+    <string name="somc_title_copper">Мед</string>
+    <string name="somc_title_gold">Злато</string>
+    <string name="somc_title_gray">Сива</string>
+    <string name="somc_title_green">Зелена</string>
+    <string name="somc_title_lightblue">Светлосиньо</string>
+    <string name="somc_title_navy">Тъмносиньо</string>
+    <string name="somc_title_orange">Oранжева</string>
+    <string name="somc_title_pink">Розово</string>
+    <string name="somc_title_purple">Лилава</string>
+    <string name="somc_title_red">Червена</string>
+    <string name="somc_title_silver">Сребро</string>
+    <string name="somc_title_white">Бял</string>
+    <string name="somc_title_yellow">Жълт</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">ಅನ್ವಯಿಸಿ</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">ಬ್ಯಾಟರಿ ಬಳಕೆ ಕಡಿಮೆ ಮಾಡಲು ಆಯ್ದ ಡಾರ್ಕ್ ವಾಲ್ಪೇಪರ್ ಅನ್ನು ಅನ್ವಯಿಸಲು ನಾವು ಸಲಹೆ ನೀಡುತ್ತೇವೆ</string>
+    <string name="wallpaper_notification_title">ಡಾರ್ಕ್ ವಾಲ್ಪೇಪರ್ ಶಿಫಾರಸು</string>
+</resources>

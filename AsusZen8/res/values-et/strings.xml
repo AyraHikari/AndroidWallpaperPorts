@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Rakenda</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Soovitame akutarbe vähendamiseks rakendada valitud tumeda taustpildi</string>
+    <string name="wallpaper_notification_title">Tumeda taustpildi soovitus</string>
+</resources>

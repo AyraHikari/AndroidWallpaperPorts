@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Negro</string>
+    <string name="somc_title_blue">Azul</string>
+    <string name="somc_title_bordeaux">Burdeos</string>
+    <string name="somc_title_copper">Cobre</string>
+    <string name="somc_title_gold">Dorado</string>
+    <string name="somc_title_gray">Gris</string>
+    <string name="somc_title_green">Verde</string>
+    <string name="somc_title_lightblue">Azul claro</string>
+    <string name="somc_title_navy">Azul marino</string>
+    <string name="somc_title_orange">Naranja</string>
+    <string name="somc_title_pink">Rosa</string>
+    <string name="somc_title_purple">Púrpura</string>
+    <string name="somc_title_red">Rojo</string>
+    <string name="somc_title_silver">Plata</string>
+    <string name="somc_title_white">Blanco</string>
+    <string name="somc_title_yellow">Amarillo</string>
+</resources>

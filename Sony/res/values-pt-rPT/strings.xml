@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Preto</string>
+    <string name="somc_title_blue">Azul</string>
+    <string name="somc_title_bordeaux">Cor de vinho</string>
+    <string name="somc_title_copper">Cobre</string>
+    <string name="somc_title_gold">Dourado</string>
+    <string name="somc_title_gray">Cinzento</string>
+    <string name="somc_title_green">Verde</string>
+    <string name="somc_title_lightblue">Azul claro</string>
+    <string name="somc_title_navy">Azul marinho</string>
+    <string name="somc_title_orange">Laranja</string>
+    <string name="somc_title_pink">Rosa</string>
+    <string name="somc_title_purple">Roxo</string>
+    <string name="somc_title_red">Vermelho</string>
+    <string name="somc_title_silver">Prateado</string>
+    <string name="somc_title_white">Branco</string>
+    <string name="somc_title_yellow">Amarelo</string>
+</resources>

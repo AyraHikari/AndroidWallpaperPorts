@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Μαύρο</string>
+    <string name="somc_title_blue">Μπλε</string>
+    <string name="somc_title_bordeaux">Μπορντό</string>
+    <string name="somc_title_copper">Χάλκινο</string>
+    <string name="somc_title_gold">Χρυσό</string>
+    <string name="somc_title_gray">Γκρι</string>
+    <string name="somc_title_green">Πράσινο</string>
+    <string name="somc_title_lightblue">Γαλάζιο</string>
+    <string name="somc_title_navy">Μπλε σκούρο</string>
+    <string name="somc_title_orange">Πορτοκαλί</string>
+    <string name="somc_title_pink">Ροζ</string>
+    <string name="somc_title_purple">Μωβ</string>
+    <string name="somc_title_red">"Κόκκινο "</string>
+    <string name="somc_title_silver">Ασημί</string>
+    <string name="somc_title_white">Λευκό</string>
+    <string name="somc_title_yellow">Κίτρινο</string>
+</resources>

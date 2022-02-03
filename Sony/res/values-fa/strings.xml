@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">سیاه</string>
+    <string name="somc_title_blue">آبی</string>
+    <string name="somc_title_bordeaux">عنابی</string>
+    <string name="somc_title_copper">مسی</string>
+    <string name="somc_title_gold">طلایی</string>
+    <string name="somc_title_gray">خاکستری</string>
+    <string name="somc_title_green">سبز</string>
+    <string name="somc_title_lightblue">آبی کم‌رنگ</string>
+    <string name="somc_title_navy">سورمه‌ای</string>
+    <string name="somc_title_orange">نارنجی</string>
+    <string name="somc_title_pink">صورتی</string>
+    <string name="somc_title_purple">بنفش</string>
+    <string name="somc_title_red">قرمز</string>
+    <string name="somc_title_silver">نقره‌ای</string>
+    <string name="somc_title_white">سفید</string>
+    <string name="somc_title_yellow">زرد</string>
+</resources>

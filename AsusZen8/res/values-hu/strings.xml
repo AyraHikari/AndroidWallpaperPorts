@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Alkalmaz</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Az akkumulátorfogyasztás csökkentésére javasoljuk a kiválasztott fekete háttérkép használatát</string>
+    <string name="wallpaper_notification_title">Sötét háttérképet javaslunk</string>
+</resources>

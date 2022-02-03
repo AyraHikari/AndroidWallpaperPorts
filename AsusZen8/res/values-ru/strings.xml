@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Применить</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Рекомендуется использовать темные обои для снижения энергопотребления</string>
+    <string name="wallpaper_notification_title">Рекомендация темных обоев</string>
+</resources>

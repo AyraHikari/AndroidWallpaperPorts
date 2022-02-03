@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Svart</string>
+    <string name="somc_title_blue">Blå</string>
+    <string name="somc_title_bordeaux">Bordeaux</string>
+    <string name="somc_title_copper">Kobber</string>
+    <string name="somc_title_gold">Gull</string>
+    <string name="somc_title_gray">Grå</string>
+    <string name="somc_title_green">Grønn</string>
+    <string name="somc_title_lightblue">Lyseblått</string>
+    <string name="somc_title_navy">Marineblå</string>
+    <string name="somc_title_orange">Oransje</string>
+    <string name="somc_title_pink">Rosa</string>
+    <string name="somc_title_purple">Lilla</string>
+    <string name="somc_title_red">Rød</string>
+    <string name="somc_title_silver">Sølv</string>
+    <string name="somc_title_white">Hvit</string>
+    <string name="somc_title_yellow">Gul</string>
+</resources>

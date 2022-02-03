@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">適用</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">選択した暗い壁紙を適用させてバッテリー消費を削減することお勧めしています</string>
+    <string name="wallpaper_notification_title">暗い壁紙推奨</string>
+</resources>

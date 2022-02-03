@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Đen</string>
+    <string name="somc_title_blue">Màu lam</string>
+    <string name="somc_title_bordeaux">Màu rượu vang</string>
+    <string name="somc_title_copper">Đồng</string>
+    <string name="somc_title_gold">Vàng</string>
+    <string name="somc_title_gray">Xám</string>
+    <string name="somc_title_green">Màu lục</string>
+    <string name="somc_title_lightblue">Xanh lam nhạt</string>
+    <string name="somc_title_navy">Xanh hải quân</string>
+    <string name="somc_title_orange">Cam</string>
+    <string name="somc_title_pink">Hồng</string>
+    <string name="somc_title_purple">Màu tím</string>
+    <string name="somc_title_red">Màu đỏ</string>
+    <string name="somc_title_silver">Bạc</string>
+    <string name="somc_title_white">Trắng</string>
+    <string name="somc_title_yellow">Vàng</string>
+</resources>

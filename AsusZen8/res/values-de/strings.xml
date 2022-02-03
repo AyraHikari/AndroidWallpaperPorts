@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Übernehmen</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Wir empfehlen, den dunklen Hintergrund zu verwenden, um den Akkuverbrauch zu senken</string>
+    <string name="wallpaper_notification_title">Dunkle Hintergrundempfehlung</string>
+</resources>

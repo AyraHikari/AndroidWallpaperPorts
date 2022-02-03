@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">应用</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">建议您套用深色壁纸，让手机电力更持久</string>
+    <string name="wallpaper_notification_title">深色壁纸推荐</string>
+</resources>

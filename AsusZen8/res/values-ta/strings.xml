@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">பயன்படுத்தவும்</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">பேட்டரியின் பயன்பாட்டை குறைக்க, குறிப்பிட்ட அடர்நிற வால் பேப்பரை பயன்படுத்த பரிந்துரைக்கிறோம்</string>
+    <string name="wallpaper_notification_title">அடர் நிற வால் பேப்பர் பரிந்துரைகள்</string>
+</resources>

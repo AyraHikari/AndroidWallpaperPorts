@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">काला</string>
+    <string name="somc_title_blue">नीला</string>
+    <string name="somc_title_bordeaux">बोर्डेऑक्स</string>
+    <string name="somc_title_copper">कॉपर</string>
+    <string name="somc_title_gold">गोल्ड</string>
+    <string name="somc_title_gray">स्लेटी</string>
+    <string name="somc_title_green">हरा</string>
+    <string name="somc_title_lightblue">हल्का नीला</string>
+    <string name="somc_title_navy">नेवी</string>
+    <string name="somc_title_orange">नारंगी</string>
+    <string name="somc_title_pink">गुलाबी</string>
+    <string name="somc_title_purple">जामुनी</string>
+    <string name="somc_title_red">लाल</string>
+    <string name="somc_title_silver">सिल्वर</string>
+    <string name="somc_title_white">सफ़ेद</string>
+    <string name="somc_title_yellow">पीला</string>
+</resources>

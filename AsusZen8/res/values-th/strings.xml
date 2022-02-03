@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">นำไปใช้</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">เราขอแนะนำให้คุณใช้วอลเปเปอร์โทนมืดที่เลือกไว้ เพื่อลดการใช้แบตเตอรี่</string>
+    <string name="wallpaper_notification_title">การแนะนำวอลเปเปอร์โทนมืด</string>
+</resources>

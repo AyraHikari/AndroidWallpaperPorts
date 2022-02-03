@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">اجرا</string>
+    <string name="wallpaper_notification">توصیه می کنیم برای کاهش مصرف باتری، کاغذ دیواری تیره انتخاب شده را اجرا کنید</string>
+    <string name="wallpaper_notification_title">توصیه انتخاب کاغذ دیواری تیره</string>
+</resources>

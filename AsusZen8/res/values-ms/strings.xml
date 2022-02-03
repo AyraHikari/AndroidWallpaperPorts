@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Guna</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Kami mencadangkan agar menggunakan kertas dinding gelap yang dipilih untuk mengurangkan penggunaan bateri</string>
+    <string name="wallpaper_notification_title">Cadangan kertas dinding gelap</string>
+</resources>

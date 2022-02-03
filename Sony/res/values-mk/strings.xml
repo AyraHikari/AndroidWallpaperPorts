@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Црна</string>
+    <string name="somc_title_blue">Сина</string>
+    <string name="somc_title_bordeaux">Бордо</string>
+    <string name="somc_title_copper">Бакар</string>
+    <string name="somc_title_gold">Златна</string>
+    <string name="somc_title_gray">Сива</string>
+    <string name="somc_title_green">Зелена</string>
+    <string name="somc_title_lightblue">Светлосина</string>
+    <string name="somc_title_navy">Морнарска</string>
+    <string name="somc_title_orange">Портокалова</string>
+    <string name="somc_title_pink">Розова</string>
+    <string name="somc_title_purple">Виолетова</string>
+    <string name="somc_title_red">Црвена</string>
+    <string name="somc_title_silver">Сребрена</string>
+    <string name="somc_title_white">Бела</string>
+    <string name="somc_title_yellow">Жолта</string>
+</resources>

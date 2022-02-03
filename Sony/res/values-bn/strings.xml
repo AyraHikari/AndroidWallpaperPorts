@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">কালো</string>
+    <string name="somc_title_blue">নীল</string>
+    <string name="somc_title_bordeaux">Bordeaux</string>
+    <string name="somc_title_copper">তামাটে</string>
+    <string name="somc_title_gold">সোনালী</string>
+    <string name="somc_title_gray">ধূসর</string>
+    <string name="somc_title_green">সবুজ</string>
+    <string name="somc_title_lightblue">হালকা নীল</string>
+    <string name="somc_title_navy">নেভি</string>
+    <string name="somc_title_orange">কমলা</string>
+    <string name="somc_title_pink">গোলাপী</string>
+    <string name="somc_title_purple">বাদামী</string>
+    <string name="somc_title_red">লাল</string>
+    <string name="somc_title_silver">রুপালী</string>
+    <string name="somc_title_white">সাদা</string>
+    <string name="somc_title_yellow">হলুদ</string>
+</resources>

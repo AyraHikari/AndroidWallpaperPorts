@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">黑色</string>
+    <string name="somc_title_blue">藍色</string>
+    <string name="somc_title_bordeaux">波爾多紅</string>
+    <string name="somc_title_copper">紅銅色</string>
+    <string name="somc_title_gold">金色</string>
+    <string name="somc_title_gray">灰色</string>
+    <string name="somc_title_green">綠色</string>
+    <string name="somc_title_lightblue">淺藍色</string>
+    <string name="somc_title_navy">海軍藍</string>
+    <string name="somc_title_orange">橙色</string>
+    <string name="somc_title_pink">粉紅色</string>
+    <string name="somc_title_purple">紫色</string>
+    <string name="somc_title_red">紅色</string>
+    <string name="somc_title_silver">銀色</string>
+    <string name="somc_title_white">白色</string>
+    <string name="somc_title_yellow">黃色</string>
+</resources>

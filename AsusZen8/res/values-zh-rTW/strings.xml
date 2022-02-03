@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">套用</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">建議您套用精選深色桌布，讓手機電力更持久</string>
+    <string name="wallpaper_notification_title">深色桌布推薦</string>
+</resources>

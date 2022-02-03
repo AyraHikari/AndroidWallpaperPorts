@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">लागू करें</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">हमारा सुझाव है कि बैटरी उपभोग को कम करने के लिए चयनित डार्क वॉलपेपर लागू करें</string>
+    <string name="wallpaper_notification_title">डार्क वॉलपेपर अनुशंसा</string>
+</resources>

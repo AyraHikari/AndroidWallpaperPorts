@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Melns</string>
+    <string name="somc_title_blue">Zils</string>
+    <string name="somc_title_bordeaux">Bordo</string>
+    <string name="somc_title_copper">Vara</string>
+    <string name="somc_title_gold">Zelta</string>
+    <string name="somc_title_gray">Pelēks</string>
+    <string name="somc_title_green">Zaļa</string>
+    <string name="somc_title_lightblue">Zila gaisma</string>
+    <string name="somc_title_navy">Flotes zils</string>
+    <string name="somc_title_orange">Oranža</string>
+    <string name="somc_title_pink">Rozā</string>
+    <string name="somc_title_purple">Violeta</string>
+    <string name="somc_title_red">Sarkana</string>
+    <string name="somc_title_silver">Sudraba</string>
+    <string name="somc_title_white">Balts</string>
+    <string name="somc_title_yellow">Dzeltens</string>
+</resources>

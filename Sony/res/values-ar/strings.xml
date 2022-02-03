@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">أسود</string>
+    <string name="somc_title_blue">أزرق</string>
+    <string name="somc_title_bordeaux">بوردو</string>
+    <string name="somc_title_copper">نحاسي</string>
+    <string name="somc_title_gold">ذهبي</string>
+    <string name="somc_title_gray">رمادي</string>
+    <string name="somc_title_green">أخضر</string>
+    <string name="somc_title_lightblue">أزرق فاتح</string>
+    <string name="somc_title_navy">كحلي</string>
+    <string name="somc_title_orange">برتقالي</string>
+    <string name="somc_title_pink">قرنفلي</string>
+    <string name="somc_title_purple">أرجواني</string>
+    <string name="somc_title_red">أحمر</string>
+    <string name="somc_title_silver">فضي</string>
+    <string name="somc_title_white">أبيض</string>
+    <string name="somc_title_yellow">أصفر</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Uygula</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Pil tüketimini azaltmak için seçili koyu renkli duvar kağıdını uygulamanızı öneriyoruz</string>
+    <string name="wallpaper_notification_title">Koyu renkli duvar kağıdı önerisi</string>
+</resources>

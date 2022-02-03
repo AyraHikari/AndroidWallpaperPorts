@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Zastosuj</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Zalecamy zastosowanie wybranej ciemnej tapety, aby wydłużyć czas pracy na baterii</string>
+    <string name="wallpaper_notification_title">Zalecenie dotyczące ciemnej tapety</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Қара</string>
+    <string name="somc_title_blue">Көк</string>
+    <string name="somc_title_bordeaux">Бордо</string>
+    <string name="somc_title_copper">Мыс</string>
+    <string name="somc_title_gold">Алтын</string>
+    <string name="somc_title_gray">Сұр</string>
+    <string name="somc_title_green">Жасыл</string>
+    <string name="somc_title_lightblue">Ашық көк</string>
+    <string name="somc_title_navy">Қою көк</string>
+    <string name="somc_title_orange">Қызғылт сары</string>
+    <string name="somc_title_pink">Қызғылт</string>
+    <string name="somc_title_purple">Күлгін</string>
+    <string name="somc_title_red">Қызыл</string>
+    <string name="somc_title_silver">Күміс</string>
+    <string name="somc_title_white">Ақ</string>
+    <string name="somc_title_yellow">Сары</string>
+</resources>

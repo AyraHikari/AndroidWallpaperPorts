@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Toepassen</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">We raden aan om de geselecteerde donkere achtergrond toe te passen om batterijverbruik te beperken</string>
+    <string name="wallpaper_notification_title">Aanbeveling voor donkere achtergrond</string>
+</resources>

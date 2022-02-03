@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Itim</string>
+    <string name="somc_title_blue">Asul</string>
+    <string name="somc_title_bordeaux">Bordeaux</string>
+    <string name="somc_title_copper">Copper</string>
+    <string name="somc_title_gold">Gold</string>
+    <string name="somc_title_gray">Gray</string>
+    <string name="somc_title_green">Berde</string>
+    <string name="somc_title_lightblue">Maliwanag na asul</string>
+    <string name="somc_title_navy">Navy</string>
+    <string name="somc_title_orange">Orange</string>
+    <string name="somc_title_pink">Pink</string>
+    <string name="somc_title_purple">Purple</string>
+    <string name="somc_title_red">Pula</string>
+    <string name="somc_title_silver">Silver</string>
+    <string name="somc_title_white">Puti</string>
+    <string name="somc_title_yellow">Dilaw</string>
+</resources>

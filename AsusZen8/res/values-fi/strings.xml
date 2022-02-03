@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Käytä</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Suosittelemme käyttämään valittua tummaa taustakuvaa akun kulutuksen vähentämiseksi</string>
+    <string name="wallpaper_notification_title">Tumman taustakuvan suositus</string>
+</resources>

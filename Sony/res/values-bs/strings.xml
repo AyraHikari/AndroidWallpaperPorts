@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Crna</string>
+    <string name="somc_title_blue">Plava</string>
+    <string name="somc_title_bordeaux">Bordo</string>
+    <string name="somc_title_copper">Bakrena</string>
+    <string name="somc_title_gold">Zlatna</string>
+    <string name="somc_title_gray">Siva</string>
+    <string name="somc_title_green">Zelena</string>
+    <string name="somc_title_lightblue">Svijetloplava</string>
+    <string name="somc_title_navy">Mornarskoplava</string>
+    <string name="somc_title_orange">Narandžasta</string>
+    <string name="somc_title_pink">Ružičasta</string>
+    <string name="somc_title_purple">Ljubičasta</string>
+    <string name="somc_title_red">Crvena</string>
+    <string name="somc_title_silver">Srebrna</string>
+    <string name="somc_title_white">Bijela</string>
+    <string name="somc_title_yellow">Žuto</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Застосувати</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Рекомендуємо застосувати вибрані темні шпалери, щоб зменшити споживання заряду акумулятора.</string>
+    <string name="wallpaper_notification_title">Рекомендація щодо темних шпалер</string>
+</resources>

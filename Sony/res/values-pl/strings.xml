@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Czarny</string>
+    <string name="somc_title_blue">Niebieski</string>
+    <string name="somc_title_bordeaux">Bordo</string>
+    <string name="somc_title_copper">Miedziany</string>
+    <string name="somc_title_gold">Złoty</string>
+    <string name="somc_title_gray">Szary</string>
+    <string name="somc_title_green">Zielony</string>
+    <string name="somc_title_lightblue">Jasnoniebieski</string>
+    <string name="somc_title_navy">Granatowy</string>
+    <string name="somc_title_orange">Pomarańczowy</string>
+    <string name="somc_title_pink">Różowy</string>
+    <string name="somc_title_purple">Fioletowy</string>
+    <string name="somc_title_red">Czerwony</string>
+    <string name="somc_title_silver">Srebrny</string>
+    <string name="somc_title_white">Biały</string>
+    <string name="somc_title_yellow">Żółty</string>
+</resources>

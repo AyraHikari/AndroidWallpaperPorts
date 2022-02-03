@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="31" android:compileSdkVersionCodename="12" package="com.sonymobile.wallpaper.bq" platformBuildVersionCode="31" platformBuildVersionName="12">
+    <uses-feature android:glEsVersion="0x00030000" android:required="true"/>
+    <uses-permission android:name="com.sonymobile.permission.RUNTIME_SKIN"/>
+    <application android:allowBackup="false" android:extractNativeLibs="false" android:icon="@drawable/preview" android:label="@string/somc_title">
+        <service android:directBootAware="true" android:exported="true" android:name="com.sonymobile.wallpaper.bq.DefaultWallpaperService" android:permission="android.permission.BIND_WALLPAPER">
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+            </intent-filter>
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/wallpaper"/>
+            <meta-data android:name="com.sonymobile.runtimeskinning.LIVE_WALLPAPER_VISIBILITY" android:value="hidden"/>
+        </service>
+        <service android:directBootAware="true" android:exported="true" android:label="@string/somc_title_black" android:name="com.sonymobile.wallpaper.bq.BlackWallpaperService" android:permission="android.permission.BIND_WALLPAPER">
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+            </intent-filter>
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/black_wallpaper"/>
+        </service>
+        <service android:directBootAware="true" android:exported="true" android:label="@string/somc_title_black" android:name="com.sonymobile.wallpaper.bq.FrostedBlackWallpaperService" android:permission="android.permission.BIND_WALLPAPER">
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+            </intent-filter>
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/frosted_black_wallpaper"/>
+        </service>
+        <service android:directBootAware="true" android:exported="true" android:label="@string/somc_title_silver" android:name="com.sonymobile.wallpaper.bq.SilverWallpaperService" android:permission="android.permission.BIND_WALLPAPER">
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+            </intent-filter>
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/silver_wallpaper"/>
+        </service>
+        <service android:directBootAware="true" android:exported="true" android:label="@string/somc_title_green" android:name="com.sonymobile.wallpaper.bq.GreenWallpaperService" android:permission="android.permission.BIND_WALLPAPER">
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+            </intent-filter>
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/green_wallpaper"/>
+        </service>
+        <service android:directBootAware="true" android:exported="true" android:label="@string/somc_title_pink" android:name="com.sonymobile.wallpaper.bq.PinkWallpaperService" android:permission="android.permission.BIND_WALLPAPER">
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+            </intent-filter>
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/pink_wallpaper"/>
+        </service>
+    </application>
+</manifest>

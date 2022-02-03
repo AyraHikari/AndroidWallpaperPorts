@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">အသုံးပြုပါ</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
+    <string name="wallpaper_notification">ဘက်ထရီ သုံးစွဲမှု လျော့ကျစေရန် ရွေးချယ်ထားသော အမှောင် နောက်ခံပုံကို သုံးရန် အကြံပြုထားသည်</string>
+    <string name="wallpaper_notification_title">အမှောင် နောက်ခံပုံ အကြံပြုချက်</string>
+</resources>

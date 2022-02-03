@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Juoda</string>
+    <string name="somc_title_blue">Mėlyna</string>
+    <string name="somc_title_bordeaux">Bordo</string>
+    <string name="somc_title_copper">Vario</string>
+    <string name="somc_title_gold">Auksinė</string>
+    <string name="somc_title_gray">Pilka</string>
+    <string name="somc_title_green">Žalia</string>
+    <string name="somc_title_lightblue">Šviesiai mėlyna</string>
+    <string name="somc_title_navy">Tamsiai mėlyna</string>
+    <string name="somc_title_orange">Oranžinė</string>
+    <string name="somc_title_pink">Rožinė</string>
+    <string name="somc_title_purple">Violetinė</string>
+    <string name="somc_title_red">Raudona</string>
+    <string name="somc_title_silver">Sidabrinė</string>
+    <string name="somc_title_white">Balta</string>
+    <string name="somc_title_yellow">Geltona</string>
+</resources>

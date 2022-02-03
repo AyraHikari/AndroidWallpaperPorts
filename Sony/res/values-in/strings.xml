@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Hitam</string>
+    <string name="somc_title_blue">Biru</string>
+    <string name="somc_title_bordeaux">Bordeaux</string>
+    <string name="somc_title_copper">Tembaga</string>
+    <string name="somc_title_gold">Emas</string>
+    <string name="somc_title_gray">Abu-Abu</string>
+    <string name="somc_title_green">Hijau</string>
+    <string name="somc_title_lightblue">Biru terang</string>
+    <string name="somc_title_navy">Biru laut</string>
+    <string name="somc_title_orange">Jingga</string>
+    <string name="somc_title_pink">Merah muda</string>
+    <string name="somc_title_purple">Ungu</string>
+    <string name="somc_title_red">Merah</string>
+    <string name="somc_title_silver">Perak</string>
+    <string name="somc_title_white">Putih</string>
+    <string name="somc_title_yellow">Kuning</string>
+</resources>

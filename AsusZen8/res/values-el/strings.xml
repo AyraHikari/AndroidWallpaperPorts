@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Εφαρμογή</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Συνιστάται να εφαρμόσετε την επιλεγμένη σκούρα ταπετσαρία για να μειώσετε την κατανάλωση μπαταρίας</string>
+    <string name="wallpaper_notification_title">Σύσταση για σκούρα ταπετσαρία</string>
+</resources>

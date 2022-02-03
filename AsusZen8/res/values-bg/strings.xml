@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Приложи</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Предлагаме ви да приложите избрания тъмен тапет, за да намалите консумацията на батерията</string>
+    <string name="wallpaper_notification_title">Препоръка за тъмен тапет</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Svart</string>
+    <string name="somc_title_blue">Blár</string>
+    <string name="somc_title_bordeaux">Bordeaux</string>
+    <string name="somc_title_copper">Kopar</string>
+    <string name="somc_title_gold">Gulllitur</string>
+    <string name="somc_title_gray">Grátt</string>
+    <string name="somc_title_green">Grænn</string>
+    <string name="somc_title_lightblue">Ljósblátt</string>
+    <string name="somc_title_navy">Dökkblátt</string>
+    <string name="somc_title_orange">Appelsínugult</string>
+    <string name="somc_title_pink">Bleikur</string>
+    <string name="somc_title_purple">Fjólublár</string>
+    <string name="somc_title_red">Rauður</string>
+    <string name="somc_title_silver">Silfur</string>
+    <string name="somc_title_white">Hvítt</string>
+    <string name="somc_title_yellow">Gulur</string>
+</resources>

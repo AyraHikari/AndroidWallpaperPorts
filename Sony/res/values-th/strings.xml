@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">ดำ</string>
+    <string name="somc_title_blue">น้ำเงิน</string>
+    <string name="somc_title_bordeaux">บอร์กโดซ์</string>
+    <string name="somc_title_copper">ทองแดง</string>
+    <string name="somc_title_gold">ทอง</string>
+    <string name="somc_title_gray">สีเทา</string>
+    <string name="somc_title_green">สีเขียว</string>
+    <string name="somc_title_lightblue">ฟ้า</string>
+    <string name="somc_title_navy">กรมท่า</string>
+    <string name="somc_title_orange">สีส้ม</string>
+    <string name="somc_title_pink">สีชมพู</string>
+    <string name="somc_title_purple">สีม่วง</string>
+    <string name="somc_title_red">สีแดง</string>
+    <string name="somc_title_silver">เงิน</string>
+    <string name="somc_title_white">ขาว</string>
+    <string name="somc_title_yellow">สีเหลือง</string>
+</resources>

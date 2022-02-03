@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">E zezë</string>
+    <string name="somc_title_blue">Blu</string>
+    <string name="somc_title_bordeaux">E kuqe e errët</string>
+    <string name="somc_title_copper">Ngjyrë bakri</string>
+    <string name="somc_title_gold">I artë</string>
+    <string name="somc_title_gray">Gri</string>
+    <string name="somc_title_green">Jeshile</string>
+    <string name="somc_title_lightblue">Blu e ndriçuar</string>
+    <string name="somc_title_navy">Blu e errët</string>
+    <string name="somc_title_orange">Portokalli</string>
+    <string name="somc_title_pink">Rozë</string>
+    <string name="somc_title_purple">Vjollcë</string>
+    <string name="somc_title_red">E kuqe</string>
+    <string name="somc_title_silver">I argjendtë</string>
+    <string name="somc_title_white">E bardhë</string>
+    <string name="somc_title_yellow">E verdhë</string>
+</resources>

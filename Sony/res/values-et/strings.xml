@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Must</string>
+    <string name="somc_title_blue">Sinine</string>
+    <string name="somc_title_bordeaux">Bordoo</string>
+    <string name="somc_title_copper">Vask</string>
+    <string name="somc_title_gold">Kuldne</string>
+    <string name="somc_title_gray">Hall</string>
+    <string name="somc_title_green">Roheline</string>
+    <string name="somc_title_lightblue">Helesinine</string>
+    <string name="somc_title_navy">Meri</string>
+    <string name="somc_title_orange">Oranž</string>
+    <string name="somc_title_pink">Roosa</string>
+    <string name="somc_title_purple">Lilla</string>
+    <string name="somc_title_red">Punane</string>
+    <string name="somc_title_silver">Hõbedane</string>
+    <string name="somc_title_white">Valge</string>
+    <string name="somc_title_yellow">Kollane</string>
+</resources>

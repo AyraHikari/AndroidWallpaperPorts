@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo_fade_in_seconds">2.5</string>
+    <string name="logo_file" />
+    <string name="logo_move_factor_1">-1.0</string>
+    <string name="logo_move_factor_2">0.0</string>
+    <string name="somc_title">Xperia wallpaper</string>
+    <string name="somc_title_black">Black</string>
+    <string name="somc_title_blue">Blue</string>
+    <string name="somc_title_bordeaux">Bordeaux</string>
+    <string name="somc_title_copper">Copper</string>
+    <string name="somc_title_gold">Gold</string>
+    <string name="somc_title_gray">Gray</string>
+    <string name="somc_title_green">Green</string>
+    <string name="somc_title_lightblue">Light blue</string>
+    <string name="somc_title_navy">Navy</string>
+    <string name="somc_title_orange">Orange</string>
+    <string name="somc_title_pink">Pink</string>
+    <string name="somc_title_purple">Purple</string>
+    <string name="somc_title_red">Red</string>
+    <string name="somc_title_silver">Silver</string>
+    <string name="somc_title_white">White</string>
+    <string name="somc_title_yellow">Yellow</string>
+    <string name="unlock_video">unlocked.mp4</string>
+</resources>

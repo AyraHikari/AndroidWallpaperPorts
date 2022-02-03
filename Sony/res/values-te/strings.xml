@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">నలుపు</string>
+    <string name="somc_title_blue">నీలం</string>
+    <string name="somc_title_bordeaux">Bordeaux</string>
+    <string name="somc_title_copper">తామ్ర రంగు</string>
+    <string name="somc_title_gold">బంగారం</string>
+    <string name="somc_title_gray">బూడిద రంగు</string>
+    <string name="somc_title_green">ఆకుపచ్చ</string>
+    <string name="somc_title_lightblue">లేత నీలం</string>
+    <string name="somc_title_navy">నావికాదళం నీలం</string>
+    <string name="somc_title_orange">నారింజ</string>
+    <string name="somc_title_pink">గులాబీ</string>
+    <string name="somc_title_purple">ధూమ్ర వర్ణము</string>
+    <string name="somc_title_red">ఎరుపు</string>
+    <string name="somc_title_silver">సిల్వర్</string>
+    <string name="somc_title_white">తెలుపు</string>
+    <string name="somc_title_yellow">పసుపచ్చ</string>
+</resources>

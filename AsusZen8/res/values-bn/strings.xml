@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">প্রয়োগ করুন</string>
+    <string name="status_bar_notification_info_overflow">৯৯৯+</string>
+    <string name="wallpaper_notification">ব্যাটারির ব্যবহার হ্রাস করতে আমরা নির্বাচিত গাঢ় ওয়ালপেপার প্রয়োগ করার পরামর্শ দিই</string>
+    <string name="wallpaper_notification_title">গাঢ় ওয়ালপেপারের সুপারিশ</string>
+</resources>

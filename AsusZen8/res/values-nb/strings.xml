@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Bruk</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Vi foreslår å bruke den valgte mørke bakgrunnen for å redusere batteriforbruket</string>
+    <string name="wallpaper_notification_title">Anbefaling om mørk bakgrunn</string>
+</resources>

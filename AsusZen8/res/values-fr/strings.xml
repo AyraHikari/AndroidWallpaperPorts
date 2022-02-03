@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Appliquer</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">"Nous vous suggérons d'appliquer le fond d'écran sombre sélectionné pour réduire la consommation de la batterie"</string>
+    <string name="wallpaper_notification_title">Recommandation pour les papiers peints foncés</string>
+</resources>

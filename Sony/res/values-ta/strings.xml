@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">கருப்பு</string>
+    <string name="somc_title_blue">நீலம்</string>
+    <string name="somc_title_bordeaux">போர்டோ</string>
+    <string name="somc_title_copper">காப்பர்</string>
+    <string name="somc_title_gold">தங்கம்</string>
+    <string name="somc_title_gray">பழுப்பு</string>
+    <string name="somc_title_green">பச்சை</string>
+    <string name="somc_title_lightblue">வெளிர் நீலம்</string>
+    <string name="somc_title_navy">நேவி</string>
+    <string name="somc_title_orange">ஆரஞ்சு</string>
+    <string name="somc_title_pink">பிங்க்</string>
+    <string name="somc_title_purple">ஊதா</string>
+    <string name="somc_title_red">சிவப்பு</string>
+    <string name="somc_title_silver">வெள்ளி</string>
+    <string name="somc_title_white">வெள்ளை</string>
+    <string name="somc_title_yellow">மஞ்சள்</string>
+</resources>

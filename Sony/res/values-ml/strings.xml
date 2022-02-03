@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">കറുപ്പ്</string>
+    <string name="somc_title_blue">നീല</string>
+    <string name="somc_title_bordeaux">Bordeaux</string>
+    <string name="somc_title_copper">കോപ്പർ</string>
+    <string name="somc_title_gold">ഗോൾഡ്</string>
+    <string name="somc_title_gray">ചാരം</string>
+    <string name="somc_title_green">പച്ച</string>
+    <string name="somc_title_lightblue">ഇളം നീല</string>
+    <string name="somc_title_navy">നേവി</string>
+    <string name="somc_title_orange">ഓറഞ്ച്</string>
+    <string name="somc_title_pink">പിങ്ക്നിറം</string>
+    <string name="somc_title_purple">പര്‍പ്പിള്‍</string>
+    <string name="somc_title_red">ചുവപ്പ്</string>
+    <string name="somc_title_silver">സിൽവർ</string>
+    <string name="somc_title_white">വെള്ള</string>
+    <string name="somc_title_yellow">മഞ്ഞ</string>
+</resources>

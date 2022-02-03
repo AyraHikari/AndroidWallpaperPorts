@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">ബാധകമാക്കുക</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">ബാറ്ററി ഉപഭോഗം കുറയ്ക്കുന്നതിന് തിരഞ്ഞെടുത്ത ഇരുണ്ട വാൾപേപ്പർ പ്രയോഗിക്കാൻ ഞങ്ങൾ നിർദ്ദേശിക്കുന്നു</string>
+    <string name="wallpaper_notification_title">ഇരുണ്ട വാൾപേപ്പർ ശുപാര്‍ശ</string>
+</resources>

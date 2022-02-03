@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">שחור</string>
+    <string name="somc_title_blue">כחול</string>
+    <string name="somc_title_bordeaux">בורדו</string>
+    <string name="somc_title_copper">נחושת</string>
+    <string name="somc_title_gold">זהב</string>
+    <string name="somc_title_gray">אפור</string>
+    <string name="somc_title_green">ירוק</string>
+    <string name="somc_title_lightblue">כחול בהיר</string>
+    <string name="somc_title_navy">כחול-כהה</string>
+    <string name="somc_title_orange">כתום</string>
+    <string name="somc_title_pink">ורוד</string>
+    <string name="somc_title_purple">סגול</string>
+    <string name="somc_title_red">אדום</string>
+    <string name="somc_title_silver">כסף</string>
+    <string name="somc_title_white">לבן</string>
+    <string name="somc_title_yellow">צהוב</string>
+</resources>

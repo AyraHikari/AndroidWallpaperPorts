@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">החל</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">אנו ממליצים להחיל את הטפט הכהה שנבחר לחיסכון טוב יותר בצריכת הסוללה</string>
+    <string name="wallpaper_notification_title">המלצת טפט כהה</string>
+</resources>

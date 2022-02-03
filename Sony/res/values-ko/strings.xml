@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">검은색</string>
+    <string name="somc_title_blue">파란색</string>
+    <string name="somc_title_bordeaux">보르도</string>
+    <string name="somc_title_copper">적갈색</string>
+    <string name="somc_title_gold">골드</string>
+    <string name="somc_title_gray">회색</string>
+    <string name="somc_title_green">녹색</string>
+    <string name="somc_title_lightblue">밝은 파란색</string>
+    <string name="somc_title_navy">감청색</string>
+    <string name="somc_title_orange">주황색</string>
+    <string name="somc_title_pink">분홍색</string>
+    <string name="somc_title_purple">보라색</string>
+    <string name="somc_title_red">빨간색</string>
+    <string name="somc_title_silver">실버</string>
+    <string name="somc_title_white">흰색</string>
+    <string name="somc_title_yellow">노란색</string>
+</resources>

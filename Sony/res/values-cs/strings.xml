@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Černá</string>
+    <string name="somc_title_blue">Modré</string>
+    <string name="somc_title_bordeaux">Bordó</string>
+    <string name="somc_title_copper">Měděná</string>
+    <string name="somc_title_gold">Zlatá</string>
+    <string name="somc_title_gray">Šedá</string>
+    <string name="somc_title_green">Zelená</string>
+    <string name="somc_title_lightblue">Světle modrá</string>
+    <string name="somc_title_navy">Námořnická modř</string>
+    <string name="somc_title_orange">Oranžová</string>
+    <string name="somc_title_pink">Růžová</string>
+    <string name="somc_title_purple">Nachová</string>
+    <string name="somc_title_red">Červená</string>
+    <string name="somc_title_silver">Stříbrná</string>
+    <string name="somc_title_white">Bílá</string>
+    <string name="somc_title_yellow">Žlutá</string>
+</resources>

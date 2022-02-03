@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Áp dụng</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Chúng tôi khuyến nghị áp dụng hình nền tối màu đã chọn để giảm mức tiêu thụ pin</string>
+    <string name="wallpaper_notification_title">Khuyên dùng hình nền tối màu</string>
+</resources>

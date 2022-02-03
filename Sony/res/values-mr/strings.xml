@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">काळा</string>
+    <string name="somc_title_blue">निळा</string>
+    <string name="somc_title_bordeaux">बोर्दू</string>
+    <string name="somc_title_copper">कॉपर</string>
+    <string name="somc_title_gold">सोनेरी</string>
+    <string name="somc_title_gray">करडा</string>
+    <string name="somc_title_green">हिरवा</string>
+    <string name="somc_title_lightblue">सौम्य निळा</string>
+    <string name="somc_title_navy">नेव्ही</string>
+    <string name="somc_title_orange">नारिंगी</string>
+    <string name="somc_title_pink">गुलाबी</string>
+    <string name="somc_title_purple">जांभळा</string>
+    <string name="somc_title_red">लाल</string>
+    <string name="somc_title_silver">चंदेरी</string>
+    <string name="somc_title_white">पांढरा</string>
+    <string name="somc_title_yellow">पिवळा</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Negru</string>
+    <string name="somc_title_blue">Albastru</string>
+    <string name="somc_title_bordeaux">Bordo</string>
+    <string name="somc_title_copper">Cupru</string>
+    <string name="somc_title_gold">Auriu</string>
+    <string name="somc_title_gray">Gri</string>
+    <string name="somc_title_green">Verde</string>
+    <string name="somc_title_lightblue">Albastru-deschis</string>
+    <string name="somc_title_navy">Bleumarin</string>
+    <string name="somc_title_orange">Portocaliu</string>
+    <string name="somc_title_pink">Roz</string>
+    <string name="somc_title_purple">Purpuriu</string>
+    <string name="somc_title_red">"Roşu "</string>
+    <string name="somc_title_silver">Argintiu</string>
+    <string name="somc_title_white">Alb</string>
+    <string name="somc_title_yellow">Galben</string>
+</resources>

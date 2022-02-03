@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">అప్లై చేయండి</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">బ్యాటరీ వినియోగాన్ని తగ్గించడానికి ఎంచుకున్న ముదురు రంగు వాల్ పేపర్ను వర్తింపజేయాలని మేము సూచిస్తున్నాము</string>
+    <string name="wallpaper_notification_title">ముదురు రంగు వాల్ పేపర్ సిఫార్సు</string>
+</resources>

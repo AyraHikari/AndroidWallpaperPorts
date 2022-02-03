@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Fekete</string>
+    <string name="somc_title_blue">Kék</string>
+    <string name="somc_title_bordeaux">Bordó</string>
+    <string name="somc_title_copper">Réz</string>
+    <string name="somc_title_gold">Arany</string>
+    <string name="somc_title_gray">Szürke</string>
+    <string name="somc_title_green">Zöld</string>
+    <string name="somc_title_lightblue">Világoskék</string>
+    <string name="somc_title_navy">Tengerészkék</string>
+    <string name="somc_title_orange">Narancssárga</string>
+    <string name="somc_title_pink">Rózsaszín</string>
+    <string name="somc_title_purple">Lila</string>
+    <string name="somc_title_red">Piros</string>
+    <string name="somc_title_silver">Ezüst</string>
+    <string name="somc_title_white">Fehér</string>
+    <string name="somc_title_yellow">Sárga</string>
+</resources>

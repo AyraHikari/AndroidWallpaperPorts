@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">ಕಪ್ಪು</string>
+    <string name="somc_title_blue">ನೀಲಿ</string>
+    <string name="somc_title_bordeaux">ಬೋರ್ಡಿಯಕ್ಸ್</string>
+    <string name="somc_title_copper">ತಾಮ್ರ</string>
+    <string name="somc_title_gold">ಹೊಂಬಣ್ಣ</string>
+    <string name="somc_title_gray">ಬೂದು</string>
+    <string name="somc_title_green">ಹಸಿರು</string>
+    <string name="somc_title_lightblue">ತಿಳಿ ನೀಲಿ</string>
+    <string name="somc_title_navy">ನೀಲಿ</string>
+    <string name="somc_title_orange">ಕಿತ್ತಳೆ</string>
+    <string name="somc_title_pink">ಗುಲಾಬಿ</string>
+    <string name="somc_title_purple">ನೇರಳೆ</string>
+    <string name="somc_title_red">ಕೆಂಪು</string>
+    <string name="somc_title_silver">ಬೆಳ್ಳಿ</string>
+    <string name="somc_title_white">ಬಿಳಿ</string>
+    <string name="somc_title_yellow">ಹಳದಿ</string>
+</resources>

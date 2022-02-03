@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ASUS Live Wallpaper</string>
+    <string name="apply">Apply</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">We suggest applying the selected dark wallpaper to decrease battery consumption</string>
+    <string name="wallpaper_notification_title">Dark wallpaper recommendation</string>
+</resources>

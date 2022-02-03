@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Aplicaţi</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Vă sugerăm să aplicați fundalul întunecat selectat pentru a reduce consumul bateriei</string>
+    <string name="wallpaper_notification_title">Recomandare pentru fundal întunecat</string>
+</resources>

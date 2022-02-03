@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">적용</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">배터리 소모를 줄이기 위해 선택한 어두운 배경화면을 적용하는 것이 권장됩니다.</string>
+    <string name="wallpaper_notification_title">어두운 배경화면 권장</string>
+</resources>

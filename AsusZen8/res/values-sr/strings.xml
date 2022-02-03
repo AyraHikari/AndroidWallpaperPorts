@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Primeni</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Predlažemo vam da primenite izabranu mračnu pozadinu da biste smanjili potrošnju baterije</string>
+    <string name="wallpaper_notification_title">Preporučujemo mračnu pozadinu</string>
+</resources>

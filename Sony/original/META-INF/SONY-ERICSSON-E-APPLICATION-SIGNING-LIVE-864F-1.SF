@@ -1,0 +1,152 @@
+Signature-Version: 1.0
+Created-By: 1.0 (signatory)
+X-Android-APK-Signed: 2
+SHA1-Digest-Manifest: M2pUOhGNwDw97ZaPHNBBh4yG73Y=
+
+Name: AndroidManifest.xml
+SHA1-Digest: lxDslyx6nv2akzBnIYycb08/wiA=
+
+Name: assets/cid130/backup.png
+SHA1-Digest: jqa16I6LyzDPsNXAvVSnZwL7N2w=
+
+Name: assets/cid130/unlocked.mp4
+SHA1-Digest: 0dM2UdgKwoFcC0IVIeXdhhpcV54=
+
+Name: assets/cid131/backup.png
+SHA1-Digest: YAHb90Bdj3D4x4au0QsywGHLens=
+
+Name: assets/cid131/unlocked.mp4
+SHA1-Digest: W2TBK76dJ2g5KDSY80tSGjR6H40=
+
+Name: assets/cid132/backup.png
+SHA1-Digest: ln/h2kWALejxLw62Q6v4qKy5LMY=
+
+Name: assets/cid132/unlocked.mp4
+SHA1-Digest: BiZ03XhSe/tsBkZSUSqzl+9owcw=
+
+Name: assets/cid133/backup.png
+SHA1-Digest: Lb/e+tVkAj+9uMm1XJ3L5eq6XVs=
+
+Name: assets/cid133/unlocked.mp4
+SHA1-Digest: b/7t81gnjslk9kl60Ju5XF18Yrc=
+
+Name: assets/cid136/backup.png
+SHA1-Digest: Sm2Eisrf3BQ5KzVcpIOrhCreozE=
+
+Name: assets/cid136/unlocked.mp4
+SHA1-Digest: Y1LjEeNUWKHG+Y5hHQhx9k4UXUM=
+
+Name: classes.dex
+SHA1-Digest: GshGA0sKuOnJ3V3SLKqiOsrQ+X4=
+
+Name: res/drawable-xxhdpi-v4/black_preview.png
+SHA1-Digest: vIhG/mbrCXk2A4jhZS558f9REnI=
+
+Name: res/drawable-xxhdpi-v4/blue_preview.png
+SHA1-Digest: ifJcq3rsgIOIy+ekL+Vdt03cGDA=
+
+Name: res/drawable-xxhdpi-v4/bordeaux_preview.png
+SHA1-Digest: OFvPt/264X/FAEOGQPJx08lQhmc=
+
+Name: res/drawable-xxhdpi-v4/frosted_black_preview.png
+SHA1-Digest: Bs5hjo/1wx/Kytrgp658o31BjK0=
+
+Name: res/drawable-xxhdpi-v4/gold_preview.png
+SHA1-Digest: r09QwGC4NtasEAjmIl9E21Y9m0A=
+
+Name: res/drawable-xxhdpi-v4/gray_preview.png
+SHA1-Digest: ylWsLzHUsrutvmQogkFcgqaS1ns=
+
+Name: res/drawable-xxhdpi-v4/green_preview.png
+SHA1-Digest: Y7BvM2Xt6jXOYknscyjL90mkNtY=
+
+Name: res/drawable-xxhdpi-v4/navy_preview.png
+SHA1-Digest: V6WB7bHIsxkY7z53eqDQ2cRL0b4=
+
+Name: res/drawable-xxhdpi-v4/orange_preview.png
+SHA1-Digest: 2GuZrs/E0yFK5aNUJNNNAor4g0Q=
+
+Name: res/drawable-xxhdpi-v4/pink_preview.png
+SHA1-Digest: zCj4NypYOwzGsaVEhz3jHDjprJA=
+
+Name: res/drawable-xxhdpi-v4/preview.png
+SHA1-Digest: 3Hs0jOlTy0+bKPZBd3LQoNRIOV4=
+
+Name: res/drawable-xxhdpi-v4/purple_preview.png
+SHA1-Digest: f0ghqUt/VzjYt4Mwd2NLbm5bJc0=
+
+Name: res/drawable-xxhdpi-v4/red_preview.png
+SHA1-Digest: 1/3lVWapphISV+cJfUsCmOSFyLQ=
+
+Name: res/drawable-xxhdpi-v4/silver_preview.png
+SHA1-Digest: WTaBThWa8BPK8DyjmMfnHg8HbRs=
+
+Name: res/drawable-xxhdpi-v4/white_preview.png
+SHA1-Digest: ioN6LtE71m4Fq/nOHcYPs6Kqa4Q=
+
+Name: res/drawable-xxhdpi-v4/yellow_preview.png
+SHA1-Digest: Xr+pHcpsE6vIufptzEaMmokPFII=
+
+Name: res/raw/logo_fs.glsl
+SHA1-Digest: SBcUGCJ7Nxg8l+l9iTo1hdfSTRA=
+
+Name: res/raw/logo_vs.glsl
+SHA1-Digest: MTWgFUl0Yo9cnx3kDFZGWvTTof8=
+
+Name: res/raw/video_fs.glsl
+SHA1-Digest: 6mLEGuKE1Jvr1A4ut3cI3TkA7Yc=
+
+Name: res/raw/video_vs.glsl
+SHA1-Digest: +gHLdnOBvriRhuCm3BMaWEZ6bE4=
+
+Name: res/xml/black_wallpaper.xml
+SHA1-Digest: 70eamup/EjcpQ6Whm2tMUhK7vMc=
+
+Name: res/xml/blue_wallpaper.xml
+SHA1-Digest: oFCab5GBKDMiut10RLjPcr+o72s=
+
+Name: res/xml/bordeaux_wallpaper.xml
+SHA1-Digest: kEfRCd6lBhy79M9KGEDjUzloGko=
+
+Name: res/xml/frosted_black_wallpaper.xml
+SHA1-Digest: aEZFMKm7Ways5LPSho0gShSpeXM=
+
+Name: res/xml/gold_wallpaper.xml
+SHA1-Digest: 86nJSEaO9ix+7rBtxf1Gh8gPsu0=
+
+Name: res/xml/gray_wallpaper.xml
+SHA1-Digest: +zHx1tVlw6eXYLMmP8I0A5Uv0UE=
+
+Name: res/xml/green_wallpaper.xml
+SHA1-Digest: yplz3tuuxte5RQeo2rNRnJ5qvGQ=
+
+Name: res/xml/navy_wallpaper.xml
+SHA1-Digest: dbUtwpKlyg+91RWtrpmeX0lOKT4=
+
+Name: res/xml/orange_wallpaper.xml
+SHA1-Digest: A4JzQSpczjsc0FvXcMOJnpVSJ1g=
+
+Name: res/xml/pink_wallpaper.xml
+SHA1-Digest: HVj5kfaGMK+AwOcKa7HyTGwMGNE=
+
+Name: res/xml/purple_wallpaper.xml
+SHA1-Digest: XLmkSwE0hQx+A8JaaCTbGsRpJag=
+
+Name: res/xml/red_wallpaper.xml
+SHA1-Digest: Revsq/0DMaxG3CyEC+u+bKMKI8A=
+
+Name: res/xml/silver_wallpaper.xml
+SHA1-Digest: CO33sDMw+bzSDqbJROZ8jYn5vNw=
+
+Name: res/xml/wallpaper.xml
+SHA1-Digest: 4tob+d6filaXYtHquwbQ3MJTFRs=
+
+Name: res/xml/white_wallpaper.xml
+SHA1-Digest: VcOF9ndhyQmRfqCHqkv/J624mnU=
+
+Name: res/xml/yellow_wallpaper.xml
+SHA1-Digest: Hd6chYAjWvyRNLMkdTFg37wtrdY=
+
+Name: resources.arsc
+SHA1-Digest: I9/bJH6t9CXf8IPx1tkeW9WoGVI=
+

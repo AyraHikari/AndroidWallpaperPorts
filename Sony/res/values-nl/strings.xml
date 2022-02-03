@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Zwart</string>
+    <string name="somc_title_blue">Blauw</string>
+    <string name="somc_title_bordeaux">Bordeaux</string>
+    <string name="somc_title_copper">Koperrood</string>
+    <string name="somc_title_gold">Goud</string>
+    <string name="somc_title_gray">Grijs</string>
+    <string name="somc_title_green">Groen</string>
+    <string name="somc_title_lightblue">Lichtblauw</string>
+    <string name="somc_title_navy">Marineblauw</string>
+    <string name="somc_title_orange">Oranje</string>
+    <string name="somc_title_pink">Roze</string>
+    <string name="somc_title_purple">Paars</string>
+    <string name="somc_title_red">Rood</string>
+    <string name="somc_title_silver">Zilver</string>
+    <string name="somc_title_white">Wit</string>
+    <string name="somc_title_yellow">Geel</string>
+</resources>

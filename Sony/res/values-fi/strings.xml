@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Musta</string>
+    <string name="somc_title_blue">Sininen</string>
+    <string name="somc_title_bordeaux">Bordeaux</string>
+    <string name="somc_title_copper">Kupari</string>
+    <string name="somc_title_gold">Kulta</string>
+    <string name="somc_title_gray">Harmaa</string>
+    <string name="somc_title_green">Vihreä</string>
+    <string name="somc_title_lightblue">Vaaleansininen</string>
+    <string name="somc_title_navy">Laivastonsininen</string>
+    <string name="somc_title_orange">Oranssi</string>
+    <string name="somc_title_pink">Vaaleanpunainen</string>
+    <string name="somc_title_purple">Purppura</string>
+    <string name="somc_title_red">Punainen</string>
+    <string name="somc_title_silver">Hopea</string>
+    <string name="somc_title_white">Valkoinen</string>
+    <string name="somc_title_yellow">Keltainen</string>
+</resources>

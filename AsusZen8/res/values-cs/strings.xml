@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Použít</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Pro snížení spotřeby baterie doporučujeme použít vybranou tmavou tapetu</string>
+    <string name="wallpaper_notification_title">Doporučení tmavé tapety</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Använd</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Vi föreslår att tillämpa den valda mörka bakgrunden för att minska batteriförbrukningen</string>
+    <string name="wallpaper_notification_title">Rekommendation om mörk bakgrund</string>
+</resources>

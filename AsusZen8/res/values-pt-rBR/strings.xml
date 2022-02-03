@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Aplicar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Recomendamos a aplicação do papel de parede escuro selecionado para reduzir o consumo da bateria</string>
+    <string name="wallpaper_notification_title">Recomendação de papel de parede escuro</string>
+</resources>

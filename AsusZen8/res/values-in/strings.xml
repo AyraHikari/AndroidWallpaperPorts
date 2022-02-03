@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apply">Terapkan</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallpaper_notification">Sebaiknya Anda menerapkan wallpaper gelap yang disarankan untuk mengurangi konsumsi baterai</string>
+    <string name="wallpaper_notification_title">Rekomendasi wallpaper gelap</string>
+</resources>

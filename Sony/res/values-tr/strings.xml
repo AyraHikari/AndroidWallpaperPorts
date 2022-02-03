@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">Siyah</string>
+    <string name="somc_title_blue">Mavi</string>
+    <string name="somc_title_bordeaux">Bordeaux</string>
+    <string name="somc_title_copper">Bakır</string>
+    <string name="somc_title_gold">Altın</string>
+    <string name="somc_title_gray">Gri</string>
+    <string name="somc_title_green">Yeşil</string>
+    <string name="somc_title_lightblue">Açık mavi</string>
+    <string name="somc_title_navy">Haki</string>
+    <string name="somc_title_orange">Turuncu</string>
+    <string name="somc_title_pink">Pembe</string>
+    <string name="somc_title_purple">Mor</string>
+    <string name="somc_title_red">Kırmızı</string>
+    <string name="somc_title_silver">Gümüş</string>
+    <string name="somc_title_white">Beyaz</string>
+    <string name="somc_title_yellow">Sarı</string>
+</resources>

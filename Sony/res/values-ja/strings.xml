@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="somc_title_black">ブラック</string>
+    <string name="somc_title_blue">ブルー</string>
+    <string name="somc_title_bordeaux">ボルドー</string>
+    <string name="somc_title_copper">カッパー</string>
+    <string name="somc_title_gold">ゴールド</string>
+    <string name="somc_title_gray">グレー</string>
+    <string name="somc_title_green">グリーン</string>
+    <string name="somc_title_lightblue">ライトブルー</string>
+    <string name="somc_title_navy">ネイビー</string>
+    <string name="somc_title_orange">オレンジ</string>
+    <string name="somc_title_pink">ピンク</string>
+    <string name="somc_title_purple">パープル</string>
+    <string name="somc_title_red">レッド</string>
+    <string name="somc_title_silver">シルバー</string>
+    <string name="somc_title_white">ホワイト</string>
+    <string name="somc_title_yellow">イエロー</string>
+</resources>
